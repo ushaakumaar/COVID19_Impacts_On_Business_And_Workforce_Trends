@@ -69,8 +69,8 @@ Following data clean up and wrangling steps were performed wherever required and
 * **Airlines & Travel Routes**
     - Route that has maximum cancellations was determined
     - Route that has maximum delays was determined
-    - Airlines that has maximum cancellations was determined
-    - Airlines that has maximum delays was determined
+    - Airline that has maximum cancellations was determined
+    - Airline that has maximum delays was determined
 
 * **Safest Travel Destination**
     - Top 15 Safest travel destinations at County Level in US was determined
@@ -79,7 +79,7 @@ Following data clean up and wrangling steps were performed wherever required and
 
 * **Unemployment**
     - Generated a [line plot](https://github.com/ushaakumaar/Python-Project-1/blob/main/Images/state_lineplot.png) with Unemployment Rates for all US states
-    - Generated a [line plot](https://github.com/ushaakumaar/Python-Project-1/blob/main/Images/states_interested_lineplot.png) with Unemployment Rates for all US states that were most affected (or) less affected due to the pandemic
+    - Generated a [line plot](https://github.com/ushaakumaar/Python-Project-1/blob/main/Images/states_interested_lineplot.png) with Unemployment Rates for the States that were most affected (or) less affected due to the pandemic
     - Generated a [line plot](https://github.com/ushaakumaar/Python-Project-1/blob/main/Images/race_lineplot.png) with Unemployment Rates for various races
     - Generate a [line plot](https://github.com/ushaakumaar/Python-Project-1/blob/main/Images/industry_lineplot.png) with Unemployment Rates for 10 chosen industries
     
