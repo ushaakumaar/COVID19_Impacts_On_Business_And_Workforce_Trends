@@ -53,9 +53,9 @@ The project reads data from multiple data sources cited above, performs normaliz
 
 Following data clean up and wrangling steps were performed wherever required and the Cleaned and Transformed data was used for the remaining steps.
 
-* Data for cleaned up removing NaNs/duplicates
+* Data was cleaned up removing NaNs/duplicates
 * Data was converted to appropriate data types
-* Data from multiple sources were merged to one dataset that could be 
+* Data from multiple sources were merged to one dataset that could be used for remaining steps
 
 ## Summary Statistics
 
