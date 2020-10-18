@@ -30,7 +30,7 @@ COVID-19 Impacts and the Questions we wanted to analyze as part of this project:
     - [Unemployment Rates for all US States](https://beta.bls.gov/dataQuery/find?st=0&r=20&q=unemployment&more=0&fq=cg:[Geography])
 
 * **Businesses**
-    - [Jupyter Notebook Script](https://github.com/ushaakumaar/Python-Project-1/blob/business-profit-loss/business-stock-retrieval.ipynb) was written based on the python script available in [kaggle](https://www.kaggle.com/jacksoncrow/download-nasdaq-historical-data) to retrieve all NASDAQ traded stock prices on 2019/12/31(Pre COVID), 2020/03/31, 2020/06/30 and 2020/10/09 into a CSV file for further analysis.
+    - [Jupyter Notebook Script](https://github.com/ushaakumaar/Python-Project-1/blob/main/business-stock-retrieval.ipynb) was written based on the python script available in [kaggle](https://www.kaggle.com/jacksoncrow/download-nasdaq-historical-data) to retrieve all NASDAQ traded stock prices on 2019/12/31(Pre COVID), 2020/03/31, 2020/06/30 and 2020/10/09 into a CSV file for further analysis.
 
 * **Airlines & Travel Routes**
     - [US Airlines Flight Delays and Cancellations Data](https://www.kaggle.com/akulbahl/covid19-airline-flight-delays-and-cancellations)
@@ -130,7 +130,7 @@ Looked across all generated figures/tables/maps and wrote the observations or in
 # Summary Findings
 ***
 
-Overall Analysis for all the questions in the project are summarized in [Summary Findings Jupyter Notebook](https://github.com/ushaakumaar/Python-Project-1/blob/business-profit-loss/Summary_Findings.ipynb)
+Overall Analysis for all the questions in the project are summarized in [Summary Findings Jupyter Notebook](https://github.com/ushaakumaar/Python-Project-1/blob/main/Summary_Findings.ipynb)
 
 
 # Programming Language / Applications Used
