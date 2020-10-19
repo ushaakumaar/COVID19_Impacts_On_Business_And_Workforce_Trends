@@ -147,6 +147,6 @@ Overall Analysis for all the questions in the project are summarized in [Summary
 - Crystal Dalsania (dalsania.crystal@gmail.com)
 - Usha Saravanakumar (ushaakumaar@gmail.com)
 - Prarthna Ashutoshmunidottir(prarthna76@gmail.com)
-- Chahnaz Kbaisi (chahnaz.k@comcast.net)
+- Chahnaz Kbaisi ()
 - Susan Thomas (sthomas.a4h@gmail.com)
 - Jame'l Brown (JayyMaurice@gmail.com)
