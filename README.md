@@ -7,19 +7,19 @@
 # About
 ***
 
-COVID-19 has been one of the most unpredictable and transformative pandemics in recorded history. It's been overall so exhausting since most businesses could not sustain and many people lost their jobs. So, our team decided to study the overall impacts of this pandemic on various businesses and workforce trends in US. 
+COVID-19 has been one of the most unpredictable and transformative pandemics in recorded history. It has been overwhelming because most businesses could not sustain and many people lost their jobs. So, our team decided to study the overall impacts of this pandemic on various businesses and workforce trends in the US. 
 
-This project analyzes COVID-19-related business trends through detailed assessment of unemployment rates, economic fluctuations, and factors (e.g., demographics, travel, personal habits) that likely contribute to growth and/or contraction in US during the worldwide pandemic. Correlations and associations between various factors and increased downturn clearly point to certain consistent vulnerabilities.
+This project analyzes COVID-19-related business trends through detailed assessment of unemployment rates, economic fluctuations, and factors (e.g., demographics, travel, personal habits) that likely contribute to growth and/or contraction in the US during the worldwide pandemic. Correlations and associations between various factors and increased downturn clearly point to certain consistent vulnerabilities.
 
 # Questions Analyzed
 ***
 
-COVID-19 Impacts and the Questions we wanted to analyze as part of this project:
-* **Unemployment** - Which ethnic group, industrial group and group of states had the highest and lowest unemployment rates during the pandemic?
-* **Businesses** - Which businesses benefitted or suffered the most due to COVID-19?
+COVID-19 impacts and the questions we wanted to analyze as part of this project:
+* **Unemployment** - Which ethnic group, industry and states had the highest and lowest unemployment rates during the pandemic?
+* **Businesses** - Which businesses economically benefitted or lost the most due to COVID-19?
 * **Airlines & Travel Routes** - Which airlines and travel routes were most affected during the pandemic?
-* **Mobility Trends** - Is there any relationship between the Total COVID-19 cases and Mobility trends (population staying at home) in US?
-* **Safest Travel Destination** In the current situation, which is the safest travel destination in US right now?
+* **Mobility Trends** - Is there any relationship between the total COVID-19 cases and mobility trends (i.e., people staying at home) in the US?
+* **Safest Travel Destination** In the current situation, which is the safest travel destination in the US right now?
 
 # Data Source
 ***
@@ -47,11 +47,11 @@ COVID-19 Impacts and the Questions we wanted to analyze as part of this project:
 
 # Data Analysis Process
 ***
-The project reads data from multiple data sources cited above, performs normalization and aggregations on top of it, and generates various plots/maps based on the data to analyze and find useful insights to answer the questions.
+The project collects data from multiple sources cited above, performs normalization and aggregations thereafter, and based on the data, generates various plots/maps to analyze and determine useful insights and draw conclusions to answer the questions.
 
 ## Data Clean Up and Data Wrangling
 
-Following data clean up and wrangling steps were performed wherever required and the Cleaned and Transformed data was used for the remaining steps.
+Following data clean up, wrangling steps were performed wherever required and the cleaned and transformed data was used for the remaining steps.
 
 * Data was cleaned up removing NaNs/duplicates
 * Data was converted to appropriate data types
@@ -63,7 +63,7 @@ Following data clean up and wrangling steps were performed wherever required and
     - US States that were most affected (or) less affected due to the pandemic were chosen to generate the plot
 
 * **Businesses**
-    - Percentage of change in stock price for each time period being assessed was calculated
+    - Percentage of change in stock price for each specified time period was calculated
     - Top 10 and Bottom 10 performing businesses were determined
 
 * **Airlines & Travel Routes**
@@ -105,7 +105,7 @@ Following data clean up and wrangling steps were performed wherever required and
     
 ## Data Analysis
 
-Looked across all generated figures/tables/maps and wrote the observations or inferences that can be made from the data. Included these observations at the bottom of notebook for each question.
+We looked across all the generated figures/tables/maps and noted the observations or inferences that can be made from the data. We included these observations at the bottom of the notebook for each question.
 
 ## Jupyter Notebook files for each Question
 
