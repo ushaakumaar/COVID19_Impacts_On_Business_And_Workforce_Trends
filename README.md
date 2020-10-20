@@ -19,7 +19,7 @@ COVID-19 impacts and the questions we wanted to analyze as part of this project:
 * **Businesses** - Which businesses economically benefitted or lost the most due to COVID-19?
 * **Airlines & Travel Routes** - Which airlines and travel routes were most affected during the pandemic?
 * **Mobility Trends** - Is there any relationship between the total COVID-19 cases and mobility trends (i.e., people staying at home) in the US?
-* **Safest Travel Destination** In the current situation, which is the US's safest travel destination right now?
+* **Safest Travel Destination** - In the current situation, which is the US's safest travel destination right now?
 
 # Data Source
 ***
@@ -55,7 +55,7 @@ COVID-19 impacts and the questions we wanted to analyze as part of this project:
 
 >`pip install sodapy`
 
->Need APP Token, Key ID, Key Secret from [https://data.bts.gov](https://data.bts.gov) in config.py file
+>Update APP Token, Key ID, Key Secret from [https://data.bts.gov](https://data.bts.gov) in config.py file
 
 * **Safest Travel Destination**
 
@@ -166,9 +166,9 @@ Summarized overall Analysis for all the questions in the project in [Summary Fin
 # Contributors
 ---
 
-- Crystal Dalsania (Github Username: cdalsania)
-- Usha Saravanakumar (Github Username: ushaakumaar)
-- Prarthna Ashutoshmunidottir(Github Username: Prarthna-design)
-- Chahnaz Kbaisi (Github Username: Chahnaz-Kbaisi)
-- Susan Thomas (Github Username: SusanCThomas)
-- Jame'l Brown (Github Username: JayyMaurice2020)
+- Crystal Dalsania ([cdalsania](https://github.com/cdalsania))
+- Usha Saravanakumar ([ushaakumaar](https://github.com/ushaakumaar))
+- Prarthna Ashutoshmunidottir ([Prarthna-design](https://github.com/Prarthna-design))
+- Chahnaz Kbaisi ([Chahnaz-Kbaisi](https://github.com/Chahnaz-Kbaisi))
+- Susan Thomas ([SusanCThomas](https://github.com/SusanCThomas))
+- Jame'l Brown ([JayyMaurice2020](https://github.com/JayyMaurice2020))
